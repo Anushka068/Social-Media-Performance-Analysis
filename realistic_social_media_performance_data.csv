@@ -1,0 +1,151 @@
+post_id,account,post_type,content_category,likes,shares,saves,timestamp,reach,impressions,engagement_rate,hashtags,age,gender,location,duration,follower_count,is_paid
+101003,account1,carousel,fashion,8196,2737,1295,2025-01-03 01:14:26,106506,135120,11.481043321503014,#wellness #love #education,25,Other,Australia,,73182,True
+101005,account1,reel,lifestyle,14286,3044,331,2025-01-05 18:08:39,85434,96913,20.672097759674134,#lifestyle #life,25,Other,Australia,258.0,73182,False
+101010,account1,static image,travel,9405,1226,425,2025-01-10 05:21:38,98621,131142,11.210594092536072,#lifestyle #motivation #photography,25,Other,Australia,,73182,True
+101001,account1,story,education,8897,2920,1429,2025-01-01 10:43:43,84122,116885,15.746178169801004,#fitness #business #inspiration #workout,25,Other,Australia,,73182,True
+101002,account1,story,music,10841,1957,689,2025-01-02 22:08:31,78430,112272,17.196225933953844,#entrepreneur #education #family #photography,25,Other,Australia,,73182,False
+101004,account1,story,tech,10028,1603,752,2025-01-04 18:56:46,77768,109964,15.923001748791277,#gaming #love,25,Other,Australia,,73182,True
+101006,account1,story,travel,8485,1253,586,2025-01-06 03:48:11,82855,98183,12.460322249713354,#wellness #entrepreneur #design,25,Other,Australia,,73182,True
+101007,account1,story,travel,9137,2290,483,2025-01-07 11:47:30,105461,130874,11.293274290970121,#design #family #wellness #business,25,Other,Australia,,73182,True
+101008,account1,story,education,9534,1253,220,2025-01-08 18:12:31,107679,135489,10.222048867467194,#workout,25,Other,Australia,,73182,False
+101009,account1,story,fashion,8757,1794,377,2025-01-09 00:34:46,96878,108845,11.280166807737567,#photography #music #wellness #love #entrepreneur,25,Other,Australia,,73182,False
+110005,account10,carousel,fitness,10142,1454,355,2025-04-05 05:13:22,58886,68858,20.29514655435927,#travel,34,Male,USA,,58764,False
+110007,account10,reel,tech,8045,1947,605,2025-04-07 13:17:24,83392,113579,12.707453952417497,#beauty #wellness #art #motivation,34,Male,USA,481.0,58764,False
+110008,account10,reel,fitness,8317,914,258,2025-04-08 07:58:18,71747,102569,13.225640096450025,#entrepreneur #nature #art #music,34,Male,USA,65.0,58764,True
+110010,account10,reel,lifestyle,9014,2517,579,2025-04-10 21:35:58,82688,100101,14.645414086687305,#family #health #photography #life,34,Male,USA,146.0,58764,True
+110003,account10,static image,music,10964,2042,959,2025-04-03 09:10:24,85490,115491,16.335243888174055,#entrepreneur #music #love #art #travel,34,Male,USA,,58764,False
+110006,account10,static image,food,5986,776,227,2025-04-06 13:59:58,76623,107219,9.12128212155619,#nature #education #music #happiness #business,34,Male,USA,,58764,True
+110001,account10,story,fashion,7594,2171,408,2025-04-01 08:09:55,72765,108967,13.980622552051122,#love #happiness,34,Male,USA,,58764,False
+110002,account10,story,fashion,6031,1065,433,2025-04-02 20:45:39,79952,96417,9.41690014008405,#motivation #food #business #art #photography,34,Male,USA,,58764,False
+110004,account10,story,fitness,7627,2046,785,2025-04-04 14:04:33,75959,86260,13.767953764530866,#life #nature,34,Male,USA,,58764,True
+110009,account10,story,travel,10422,3288,1196,2025-04-09 06:45:35,65819,84226,22.646956046126498,#fitness #gaming #food #entrepreneur #health,34,Male,USA,,58764,False
+111005,account11,reel,health,380,126,37,2025-04-15 03:56:49,2479,3519,21.90399354578459,#gaming #wellness,33,Female,Japan,597.0,2457,True
+111002,account11,static image,fashion,487,163,30,2025-04-12 06:29:14,3341,4743,20.353187668362764,#fitness #happiness #design #sports #gaming,33,Female,Japan,,2457,True
+111006,account11,static image,education,391,70,32,2025-04-16 07:41:40,3098,3710,15.91349257585539,#design #food #wellness,33,Female,Japan,,2457,True
+111001,account11,story,lifestyle,408,93,34,2025-04-11 13:41:02,3159,4333,16.93573915796138,#travel,33,Female,Japan,,2457,False
+111003,account11,story,travel,382,66,23,2025-04-13 13:54:03,2737,3372,17.20862257946657,#sports #motivation,33,Female,Japan,,2457,False
+111004,account11,story,tech,385,109,51,2025-04-14 15:58:00,3481,4958,15.656420568802067,#family #inspiration #education #food #photography,33,Female,Japan,,2457,False
+111007,account11,story,tech,460,94,45,2025-04-17 16:24:59,2948,4107,20.318860244233377,#wellness,33,Female,Japan,,2457,True
+111008,account11,story,health,272,56,9,2025-04-18 07:35:08,3669,4378,9.185064050149904,#nature,33,Female,Japan,,2457,True
+111009,account11,story,food,332,68,32,2025-04-19 12:16:26,3544,4854,12.18961625282167,#beauty #inspiration #fashion,33,Female,Japan,,2457,True
+111010,account11,story,travel,388,64,12,2025-04-20 02:33:07,3487,3897,13.306567249784914,#education #lifestyle,33,Female,Japan,,2457,False
+112001,account12,reel,art,8596,1620,446,2025-04-21 05:12:31,71518,84838,14.90813501496127,#motivation #love,64,Other,Mexico,547.0,53050,True
+112006,account12,reel,music,5800,1382,586,2025-04-26 12:25:11,78530,117416,9.891761110403667,#health #travel #photography #food #beauty,64,Other,Mexico,308.0,53050,False
+112002,account12,static image,lifestyle,8213,2733,985,2025-04-22 18:20:33,78217,107927,15.253717222598667,#motivation #family #fitness #education,64,Other,Mexico,,53050,False
+112004,account12,static image,music,5713,1935,581,2025-04-24 01:48:41,57809,71918,14.234807728900345,#happiness #wellness #travel #education #design,64,Other,Mexico,,53050,True
+112010,account12,static image,fashion,9802,1819,604,2025-04-30 03:10:32,63619,93848,19.215957496974173,#motivation #health #workout #entrepreneur #design,64,Other,Mexico,,53050,True
+112003,account12,story,education,6519,1666,716,2025-04-23 15:03:41,53596,60151,16.607582655422046,#fashion #fitness #photography,64,Other,Mexico,,53050,False
+112005,account12,story,tech,9825,1088,362,2025-04-25 01:26:22,77105,104487,14.622916801763827,#nature #travel #life #happiness,64,Other,Mexico,,53050,True
+112007,account12,story,lifestyle,5505,1248,597,2025-04-27 22:44:20,70716,94007,10.393687425759374,#beauty #sports,64,Other,Mexico,,53050,False
+112008,account12,story,art,7536,1853,862,2025-04-28 11:46:37,70988,96332,14.440468811630133,#beauty #love,64,Other,Mexico,,53050,True
+112009,account12,story,food,10164,1931,674,2025-04-29 09:27:23,70986,104871,17.988053982475417,#gaming #tech #music #beauty #workout,64,Other,Mexico,,53050,True
+113003,account13,reel,music,15697,2417,999,2025-05-03 10:35:08,118411,160171,16.141236878330563,#motivation #nature #life #education #love,58,Other,India,115.0,90005,False
+113009,account13,static image,fitness,11918,2200,833,2025-05-09 06:21:54,96968,142479,15.418488573550038,#entrepreneur #sports #gaming #nature #photography,58,Other,India,,90005,False
+113001,account13,story,education,17772,3080,492,2025-05-01 22:33:01,109205,130260,19.544892633121194,#health #life #lifestyle,58,Other,India,,90005,False
+113002,account13,story,food,14581,4721,1424,2025-05-02 23:41:48,91557,102322,22.637264217918894,#travel #fitness #design,58,Other,India,,90005,False
+113004,account13,story,music,10705,2670,785,2025-05-04 17:41:58,114160,165813,12.40364400840925,#inspiration #health,58,Other,India,,90005,False
+113005,account13,story,fashion,14061,3132,320,2025-05-05 20:45:01,130794,165889,13.389757939966666,#workout,58,Other,India,,90005,False
+113006,account13,story,music,13134,1526,751,2025-05-06 06:12:58,134986,158152,11.416739513727348,#gaming,58,Other,India,,90005,False
+113007,account13,story,lifestyle,17125,3310,939,2025-05-07 11:58:25,101427,141664,21.07328423398109,#fitness,58,Other,India,,90005,True
+113008,account13,story,lifestyle,12937,2846,549,2025-05-08 03:19:51,102853,148078,15.878972903075264,#business #love #travel #photography,58,Other,India,,90005,True
+113010,account13,story,music,13614,3581,1634,2025-05-10 18:57:55,97560,139077,19.299917999179993,#art #life #food #happiness,58,Other,India,,90005,False
+114008,account14,reel,education,6920,1286,218,2025-05-18 19:37:00,54855,74004,15.356849876948317,#motivation #business #education,60,Female,Brazil,497.0,38041,False
+114002,account14,static image,food,4381,1498,471,2025-05-12 23:58:52,38297,56320,16.58093323236807,#art #life #motivation #music,60,Female,Brazil,,38041,True
+114003,account14,static image,lifestyle,7190,729,296,2025-05-13 01:20:11,55239,72678,14.87173916978946,#design,60,Female,Brazil,,38041,True
+114007,account14,static image,art,6500,1870,750,2025-05-17 15:14:47,56205,83828,16.226314384841206,#beauty #motivation #sports #design #photography,60,Female,Brazil,,38041,True
+114009,account14,static image,art,4132,720,111,2025-05-19 11:20:29,55016,67349,9.021012069216228,#life #music,60,Female,Brazil,,38041,False
+114010,account14,static image,travel,4200,757,256,2025-05-20 00:23:49,41396,59618,12.593004154990819,#fashion #lifestyle #education #family #fitness,60,Female,Brazil,,38041,True
+114001,account14,story,tech,5001,861,292,2025-05-11 01:02:29,47512,67316,12.952517258797776,#health #travel #art #wellness,60,Female,Brazil,,38041,True
+114004,account14,story,lifestyle,4454,503,164,2025-05-14 03:43:21,48796,66890,10.494712681367325,#fashion #gaming #love,60,Female,Brazil,,38041,False
+114005,account14,story,tech,4428,1444,684,2025-05-15 09:17:22,47697,70314,13.745099272490933,#business,60,Female,Brazil,,38041,True
+114006,account14,story,food,6726,1983,371,2025-05-16 06:09:33,38555,43754,23.55077162495137,#workout,60,Female,Brazil,,38041,False
+115002,account15,reel,fitness,7710,2521,759,2025-05-22 11:52:09,66602,79027,16.501005975796524,#education #entrepreneur,38,Other,Japan,397.0,49365,True
+115007,account15,reel,travel,7748,2059,636,2025-05-27 07:14:32,52954,66735,19.72088982890811,#family,38,Other,Japan,301.0,49365,False
+115006,account15,static image,music,7289,2491,843,2025-05-26 15:56:46,71653,104495,14.825617908531393,#happiness #workout #fitness #beauty #love,38,Other,Japan,,49365,True
+115008,account15,static image,fashion,8966,1267,409,2025-05-28 08:22:07,57814,68440,18.4073061888124,#entrepreneur #photography #food #music,38,Other,Japan,,49365,True
+115009,account15,static image,art,8008,2566,587,2025-05-29 18:51:50,55490,66904,20.1135339700847,#lifestyle #gaming #nature,38,Other,Japan,,49365,False
+115001,account15,story,food,5656,727,96,2025-05-21 18:10:23,62506,71286,10.365404921127572,#fitness #health #food #education,38,Other,Japan,,49365,True
+115003,account15,story,food,9480,2876,1289,2025-05-23 14:25:39,64759,82842,21.070430364891365,#travel #health #motivation #fitness,38,Other,Japan,,49365,True
+115004,account15,story,food,6890,1507,668,2025-05-24 12:46:50,49451,69237,18.331277426139007,#photography #health #travel #family #beauty,38,Other,Japan,,49365,True
+115005,account15,story,art,8834,2224,579,2025-05-25 02:07:13,66244,96116,17.566873981039794,#tech #fashion,38,Other,Japan,,49365,True
+115010,account15,story,health,7581,1527,743,2025-05-30 01:26:22,64052,72552,15.379691500655717,#fashion #design,38,Other,Japan,,49365,False
+102001,account2,reel,travel,2980,944,140,2025-01-11 02:30:28,29486,37253,13.782812182052501,#fitness #family #happiness #education #sports,28,Female,Australia,137.0,26549,True
+102002,account2,reel,fashion,4192,678,330,2025-01-12 21:44:22,34019,49848,15.285575707692761,#gaming #fitness #travel #education,28,Female,Australia,391.0,26549,False
+102005,account2,static image,lifestyle,3713,1146,469,2025-01-15 22:39:22,33878,49321,15.727020485270677,#family #food #gaming,28,Female,Australia,,26549,True
+102006,account2,static image,health,3912,642,156,2025-01-16 06:28:45,39229,55908,12.006423819113412,#travel #tech #design,28,Female,Australia,,26549,True
+102009,account2,static image,food,5093,1616,470,2025-01-19 11:50:25,33662,40405,21.326718555047233,#happiness #workout #lifestyle,28,Female,Australia,,26549,True
+102003,account2,story,lifestyle,3303,1046,123,2025-01-13 18:50:54,39481,43722,11.326967402041488,#family #design #business #health #food,28,Female,Australia,,26549,False
+102004,account2,story,tech,3799,709,281,2025-01-14 09:27:32,30193,39960,15.861292352532045,#music #workout #happiness #inspiration,28,Female,Australia,,26549,False
+102007,account2,story,food,3313,625,188,2025-01-17 21:40:10,37980,50620,10.86361242759347,#art #lifestyle #gaming #nature,28,Female,Australia,,26549,False
+102008,account2,story,fitness,4945,985,229,2025-01-18 13:14:09,29639,33591,20.780053308141298,#fitness #education,28,Female,Australia,,26549,True
+102010,account2,story,food,5079,862,92,2025-01-20 21:25:09,29593,43084,20.38657790693745,#business,28,Female,Australia,,26549,False
+103002,account3,static image,lifestyle,9205,1824,469,2025-01-22 17:01:55,65045,93090,17.676992851103083,#food #photography,60,Male,Australia,,50900,True
+103003,account3,static image,tech,8304,1204,506,2025-01-23 00:30:02,66307,92119,15.10247786809839,#sports,60,Male,Australia,,50900,True
+103005,account3,static image,food,6365,1340,347,2025-01-25 19:43:08,60536,67209,13.301176159640542,#love #wellness,60,Male,Australia,,50900,True
+103006,account3,static image,tech,8017,1164,339,2025-01-26 19:47:46,74799,108661,12.72744288025241,#workout #tech #lifestyle #health #inspiration,60,Male,Australia,,50900,False
+103001,account3,story,lifestyle,8360,1210,601,2025-01-21 04:18:42,57121,69350,17.806060818262985,#tech #design #wellness #beauty,60,Male,Australia,,50900,True
+103004,account3,story,health,5143,1455,321,2025-01-24 09:49:25,61309,89851,11.28545564272782,#photography #tech #fitness #sports,60,Male,Australia,,50900,False
+103007,account3,story,health,6425,824,276,2025-01-27 07:13:07,65107,85154,11.557897000322546,#motivation #life #business #beauty,60,Male,Australia,,50900,True
+103008,account3,story,tech,5204,1338,217,2025-01-28 01:08:20,75751,111309,8.92265448640942,#gaming #business #workout #motivation,60,Male,Australia,,50900,False
+103009,account3,story,lifestyle,10139,1320,520,2025-01-29 09:36:30,70378,79339,17.020944045014065,#nature,60,Male,Australia,,50900,False
+103010,account3,story,art,5741,1643,607,2025-01-30 03:17:14,57206,69083,13.968814460021676,#photography,60,Male,Australia,,50900,False
+104004,account4,carousel,food,6134,927,206,2025-02-03 21:23:41,78946,100471,9.205026220454487,#workout #business #gaming #happiness #life,19,Male,India,,60356,True
+104001,account4,reel,lifestyle,9661,1423,501,2025-01-31 04:23:10,69641,97686,16.63531540328255,#fitness #entrepreneur #beauty #business,19,Male,India,544.0,60356,True
+104006,account4,reel,food,9026,1033,497,2025-02-05 07:00:21,78854,87566,13.386765414563623,#food #fitness #health #motivation,19,Male,India,259.0,60356,True
+104002,account4,static image,food,7074,1125,278,2025-02-01 13:01:43,77578,105480,10.92706695197092,#food #inspiration #workout,19,Male,India,,60356,False
+104008,account4,static image,fashion,10518,1107,479,2025-02-07 13:16:05,66245,90838,18.271567665484188,#wellness,19,Male,India,,60356,False
+104009,account4,static image,education,10149,1445,419,2025-02-08 10:11:18,82812,119098,14.506351736463314,#art #inspiration #business,19,Male,India,,60356,True
+104003,account4,story,food,9147,1708,468,2025-02-02 07:29:52,85884,119330,13.184062223464208,#family,19,Male,India,,60356,True
+104005,account4,story,food,10865,2204,557,2025-02-04 05:35:06,71515,106763,19.053345452003075,#photography #workout #motivation #lifestyle #nature,19,Male,India,,60356,True
+104007,account4,story,lifestyle,8311,989,211,2025-02-06 06:04:56,89536,107859,10.622542887776984,#design #beauty #education #life,19,Male,India,,60356,False
+104010,account4,story,fashion,10372,2677,300,2025-02-09 18:55:31,69300,98837,19.262626262626263,#nature #sports,19,Male,India,,60356,False
+105002,account5,reel,tech,7822,903,341,2025-02-11 16:45:34,54394,81327,16.66727947935434,#tech #business,64,Other,Germany,306.0,39569,False
+105006,account5,reel,food,7868,1071,305,2025-02-15 21:09:33,58217,75915,15.878523455348095,#inspiration,64,Other,Germany,492.0,39569,True
+105009,account5,reel,health,5517,1296,508,2025-02-18 10:13:11,55133,79404,13.278798541708234,#lifestyle #business #love #wellness,64,Other,Germany,35.0,39569,False
+105001,account5,static image,travel,7279,900,183,2025-02-10 21:02:12,47393,67827,17.64395585846011,#food #fashion,64,Other,Germany,,39569,True
+105003,account5,static image,education,6771,1967,217,2025-02-12 08:47:19,54070,76540,16.561864250046238,#photography #fashion #family #design #fitness,64,Other,Germany,,39569,True
+105008,account5,static image,education,5065,914,377,2025-02-17 02:43:07,52612,64986,12.080894092602449,#food #life #health #nature,64,Other,Germany,,39569,False
+105010,account5,static image,health,5063,1365,247,2025-02-19 01:40:28,57475,68745,11.613745106568073,#love #fashion #tech #life,64,Other,Germany,,39569,True
+105004,account5,story,health,5872,847,258,2025-02-13 12:11:48,54473,72886,12.808180199364823,#tech #education #inspiration,64,Other,Germany,,39569,True
+105005,account5,story,fitness,6895,1792,772,2025-02-14 13:38:45,52589,73481,17.986651200821466,#education,64,Other,Germany,,39569,True
+105007,account5,story,music,4813,1407,297,2025-02-16 19:14:00,44017,49750,14.805643274189517,#gaming #food #tech #inspiration #life,64,Other,Germany,,39569,True
+106004,account6,static image,education,3909,968,367,2025-02-23 17:12:51,32504,38174,16.133398966281074,#business #gaming #music,47,Female,France,,24565,False
+106005,account6,static image,health,3039,512,197,2025-02-24 07:44:24,32044,38493,11.696417426039197,#entrepreneur,47,Female,France,,24565,False
+106007,account6,static image,art,2497,484,241,2025-02-26 00:26:50,36437,44609,8.842659933583995,#workout #nature #lifestyle,47,Female,France,,24565,True
+106009,account6,static image,health,3663,760,278,2025-02-28 04:26:31,27280,37868,17.232404692082113,#business #health #education #inspiration,47,Female,France,,24565,True
+106001,account6,story,fashion,2734,288,46,2025-02-20 20:46:18,29003,37581,10.578216046615866,#happiness #sports,47,Female,France,,24565,True
+106002,account6,story,health,2886,448,195,2025-02-21 15:12:33,26592,34663,13.270908543922985,#design #photography #love #family,47,Female,France,,24565,True
+106003,account6,story,fitness,4037,995,361,2025-02-22 15:51:47,26169,30717,20.60835339523864,#wellness,47,Female,France,,24565,True
+106006,account6,story,food,2746,289,44,2025-02-25 00:45:48,28244,35152,10.90143039229571,#happiness #art #tech #love #life,47,Female,France,,24565,True
+106008,account6,story,fitness,4606,884,303,2025-02-27 00:56:01,34679,46084,16.704633928313964,#entrepreneur #motivation #life,47,Female,France,,24565,True
+106010,account6,story,fashion,2904,437,209,2025-03-01 15:54:11,24599,36728,14.431480954510345,#inspiration #music #life,47,Female,France,,24565,True
+107004,account7,carousel,travel,13548,2054,673,2025-03-05 12:32:09,124174,151795,13.106608468761577,#music,48,Male,UK,,83039,False
+107005,account7,carousel,education,13217,1668,286,2025-03-06 13:09:13,109184,130481,13.894893024618993,#art #lifestyle #tech #entrepreneur,48,Male,UK,,83039,False
+107010,account7,reel,art,15439,3296,927,2025-03-11 20:01:58,112854,144269,17.42251050029241,#inspiration #photography #gaming #art,48,Male,UK,64.0,83039,False
+107002,account7,static image,art,14655,2198,387,2025-03-03 07:24:29,112594,124661,15.311650709629287,#workout #education #fitness #design,48,Male,UK,,83039,False
+107003,account7,static image,tech,12150,3324,628,2025-03-04 15:12:17,97841,131448,16.45731339622449,#tech #family #health #fitness #workout,48,Male,UK,,83039,True
+107001,account7,story,health,14485,3162,580,2025-03-02 19:03:16,99526,124907,18.313807447300203,#education #love #workout #gaming,48,Male,UK,,83039,True
+107006,account7,story,fashion,8903,1444,605,2025-03-07 07:26:00,97986,118035,11.17710693364358,#travel,48,Male,UK,,83039,True
+107007,account7,story,tech,9881,1601,353,2025-03-08 22:45:09,118376,152604,9.99780360883963,#life #health #love #family,48,Male,UK,,83039,False
+107008,account7,story,health,15268,4344,1472,2025-03-09 09:41:46,96604,114931,21.825183222226823,#music #wellness #business,48,Male,UK,,83039,False
+107009,account7,story,education,13388,4177,1833,2025-03-10 18:36:31,100045,148664,19.38927482632815,#tech #inspiration #fitness,48,Male,UK,,83039,False
+108007,account8,live video,education,1213,329,158,2025-03-18 04:43:31,10110,14680,16.81503461918892,#business,54,Female,India,74.0,8166,True
+108002,account8,static image,education,823,207,21,2025-03-13 03:59:58,8228,10932,12.773456490034029,#motivation,54,Female,India,,8166,False
+108004,account8,static image,fashion,1212,401,110,2025-03-15 16:30:15,8776,11737,19.633090246125796,#fashion #health #wellness,54,Female,India,,8166,True
+108001,account8,story,fashion,968,163,27,2025-03-12 06:27:04,9061,11806,12.780046352499724,#life #entrepreneur,54,Female,India,,8166,False
+108003,account8,story,food,883,165,51,2025-03-14 04:06:07,9060,10380,12.130242825607064,#life #health #lifestyle #happiness #tech,54,Female,India,,8166,False
+108005,account8,story,music,1122,321,40,2025-03-16 19:55:29,10081,13232,14.710842178355321,#travel #art,54,Female,India,,8166,True
+108006,account8,story,tech,1247,255,61,2025-03-17 20:30:21,9300,12073,16.806451612903224,#inspiration #motivation #nature,54,Female,India,,8166,False
+108008,account8,story,fitness,1330,294,95,2025-03-19 16:18:19,8859,12284,19.40399593633593,#nature,54,Female,India,,8166,True
+108009,account8,story,music,1447,316,151,2025-03-20 18:54:28,12216,13487,15.667976424361493,#wellness #sports #design #life #travel,54,Female,India,,8166,False
+108010,account8,story,tech,1003,203,34,2025-03-21 06:12:35,10774,13661,11.509188787822536,#education #nature #photography #fashion #love,54,Female,India,,8166,True
+109004,account9,reel,art,11960,3767,1259,2025-03-25 03:17:13,80598,109893,21.074964639321074,#life #beauty #travel #art,55,Female,Brazil,190.0,61296,True
+109005,account9,reel,tech,6988,2222,489,2025-03-26 10:59:39,87649,108849,11.065728074478889,#workout #wellness #lifestyle #health,55,Female,Brazil,167.0,61296,True
+109006,account9,reel,tech,10776,3365,358,2025-03-27 11:17:12,91327,114435,15.875918403100945,#happiness,55,Female,Brazil,229.0,61296,True
+109007,account9,reel,art,10001,3449,999,2025-03-28 00:38:07,72437,107703,19.946988417521432,#music,55,Female,Brazil,432.0,61296,True
+109001,account9,static image,food,6638,674,318,2025-03-22 03:20:56,87321,110844,8.737875196115482,#family #inspiration #design #health,55,Female,Brazil,,61296,True
+109003,account9,static image,music,7938,979,191,2025-03-24 18:16:10,68344,93467,13.326700222404309,#happiness #nature #design #business,55,Female,Brazil,,61296,False
+109002,account9,story,fashion,7399,2207,221,2025-03-23 04:35:08,71762,82713,13.693876982246872,#love #design #music,55,Female,Brazil,,61296,True
+109008,account9,story,education,8028,980,182,2025-03-29 15:51:02,61940,76104,14.83693897319987,#lifestyle #life,55,Female,Brazil,,61296,False
+109009,account9,story,food,7866,1165,161,2025-03-30 06:51:05,91862,127610,10.006313818553918,#education,55,Female,Brazil,,61296,False
+109010,account9,story,health,12220,3302,642,2025-03-31 01:05:50,83276,118118,19.41015418608002,#design #tech,55,Female,Brazil,,61296,False
